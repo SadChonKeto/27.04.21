@@ -44,23 +44,23 @@ int main()
     string wantedType;
     cin>>wantedType;
     Objfurniture objf;
-    Furniture f;
+    //Furniture f;
     vector<Furniture> bbb;
     vector <Objfurniture> aaa;
     while(ifs>>objf.material>>objf.company>>objf.typewhrusd>>objf.objtype>>objf.numb)
     {
         //aaa.push_back(objf);
-        if (wantedType == f.typewhrusd)
+        if (wantedType == objf.typewhrusd)
         {
-        objf.material=f.material;
-        objf.company=f.company;
-        objf.typewhrusd=f.typewhrusd;
-        ifs>> objf.objtype>>objf.numb;
+        //objf.material=f.material;
+        //objf.company=f.company;
+        //objf.typewhrusd=f.typewhrusd;
+        //ifs>> objf.objtype>>objf.numb;
         aaa.push_back(objf);
         //objf.print();
         //cout<<objf.material<<" "<<objf.company<<" "<<objf.typewhrusd<<" "<<objf.objtype<<" "<<objf.numb;}
         }
-        else(bbb.push_back(objf));
+        //else(bbb.push_back(objf));
     }
     for (int i=0; i<aaa.size(); i++)
     {
