@@ -1,0 +1,4 @@
+name1 company1 country1 20 type1 ingredients1 false 120
+name2 company1 country2 30 type2 ingredients2 true 100
+name3 company1 country3 40 type3 ingredients3 false 150
+name4 company1 country4 50 type4 ingredients4 true 80

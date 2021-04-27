@@ -1,0 +1,4 @@
+name1 company1 country1 10 type1 30
+name2 company2 country2 12 type1 40
+name3 company4 country4 15 type3 20
+name4 company4 country4 16 type1 25
