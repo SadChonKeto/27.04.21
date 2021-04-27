@@ -1,0 +1,1 @@
+name3 producer3 1080 60 ptype3 electricname6 producer6 2300 23 ptype6 electric

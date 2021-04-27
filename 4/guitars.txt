@@ -1,0 +1,6 @@
+name1 producer1 1000 50 ptype1 bass
+name2 producer3 1500 20 ptype2 acoustic
+name3 producer3 1080 60 ptype3 electric
+name4 producer4 2000 90 ptype4 bass
+name5 producer5 1800 45 ptype5 acoustic
+name6 producer6 2300 23 ptype6 electric
