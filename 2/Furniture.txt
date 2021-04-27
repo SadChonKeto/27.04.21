@@ -1,0 +1,10 @@
+type1 company1 office chair 55
+type2 company2 cafe table 20
+type3 company3 office desk 100
+
+
+
+
+
+
+
